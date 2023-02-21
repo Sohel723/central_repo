@@ -1,3 +1,0 @@
-this is third file
-name of the file is file.txt
-
