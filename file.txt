@@ -1,5 +1,3 @@
 name of the file is file.txt
 which is my pc
 my pc name is asus
-storage is 8 gb
-purchased at khammam in reliance mart
